@@ -1,0 +1,15 @@
+{
+
+   "verticles":[
+      {
+         "outputAddress": "Process",
+         "host": "futar.bkk.hu",
+         "pathTemplate": "/bkk-utvonaltervezo-api/ws/oba/api/where/bicycle-rental",
+         "port": 80
+      },
+      {
+         "inputAddress": "Process"
+      }
+      ]
+
+}

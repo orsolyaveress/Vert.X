@@ -1,0 +1,5 @@
+city/ui/bubi/ProcessVerticle.class
+city/ui/bubi/BubiLocation.class
+city/ui/bubi/BubiLocation$Builder.class
+city/ui/bubi/MainVerticle.class
+city/ui/bubi/BubiConnector.class
